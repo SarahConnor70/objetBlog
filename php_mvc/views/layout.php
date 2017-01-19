@@ -16,7 +16,7 @@
 
     <nav class="green lighten-3" role="navigation">
     <div class="nav-wrapper container">
-      <a id="logo-container" href="#" class="brand-logo">Blog Dream team</a>
+      <a id="logo-container" href="#" class="brand-logo">Blog</a>
       <ul class="right hide-on-med-and-down">
         <li><a href='?controller=pages&action=home'>Accueil</a></li>
          <li><a href='?controller=posts&action=index'>Articles</a></li>
